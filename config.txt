@@ -3,4 +3,4 @@ prefix=*
 game=Thunder Quran *help
 stayinchannel=true
 songinstatus=false
-token=NTY5MDg1MTE4MDc4MjU1MTE0.XMKebQ.UObt3IwRapC-yBxAibYpQVCB6nM
+token=NTc2MDM4OTYzOTk5OTMyNDQ2.XNQtww.o0IxRs3iMcdxhUuYeTZ-8Ezyih4
